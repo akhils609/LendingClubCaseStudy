@@ -81,7 +81,7 @@ Jupyter Notebook
 
 
 ## Contact
-Created by [@akhils609] - feel free to contact me!
+Created by [@akhils609] and [ikhan3rd]- feel free to contact us!
 
 
 <!-- Optional -->
